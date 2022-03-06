@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Address phone number copied from Amazon account rejected on other websites' forms"
+title: "Phone number copied from Amazon is rejected on other websites' forms"
 date:   2022-03-06
 ---
 
@@ -34,7 +34,7 @@ It looks like this in a Python shell:
 '\u202a123 1231234\u202c'
 {% endhighlight %}
 
-
+Evidently it is not only useful for numbers. For example, if you have an Arabic text that quotes a Spanish one you will also need to wrap the Spanish text between code points LRE (U+202B) and PDF (U+202C). 
 
 
 
