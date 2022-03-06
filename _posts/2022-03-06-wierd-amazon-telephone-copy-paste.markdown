@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Phone number copied from Amazon is rejected on other websites' forms"
+title: "Phone number copied from Amazon is rejected on other websites"
 date:   2022-03-06
 ---
 
