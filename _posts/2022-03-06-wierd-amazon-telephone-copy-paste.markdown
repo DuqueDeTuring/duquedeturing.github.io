@@ -8,7 +8,7 @@ date:   2022-03-06
 
 Sometimes when ordering online a website's form requires a phone number, for those cases I use the phone number registered on my Amazon's address book: I go to my Amazon's address book, select the number, copy the text and paste into the other form (yes I need something more efficient). 
 
-Here is the thing: frequently, the website's validation code rejects the field with the phone number, failing the form validation and sometimes even clearing all the other fields forcing me to type everyting again. A few years ago I found the cause, a very simple one but new to me and documented here. (I found it just by pasting the clipboard value into a terminal).
+Here is the thing: frequently, the website's validation code rejects the field with the phone number, failing the form validation and sometimes even clearing all the other fields forcing me to type everything again. A few years ago I found the cause, a very simple one but new to me and documented here. Suspecting something invisible, I found it just by pasting the clipboard's value in a terminal (nothing sophisticated).
 
 The cause is Unicode.
 
@@ -34,7 +34,7 @@ It looks like this in a Python shell:
 '\u202a123 1231234\u202c'
 {% endhighlight %}
 
-Evidently it is not only useful for numbers. For example, if you have an Arabic text that quotes a Spanish one you will also need to wrap the Spanish text between code points LRE (U+202B) and PDF (U+202C). 
+Evidently it is not only useful for numbers. For example, if you have an Arabic text that quotes a Spanish one you will also need to wrap the Spanish text between code points LRE (U+202A) and PDF (U+202C). 
 
 
 
