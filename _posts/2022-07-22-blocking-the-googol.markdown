@@ -6,11 +6,11 @@ date:   2022-07-22
 
 ---
 
-Algunos días después de configurar pf-badhost en mi router-gateway-firewall OpenBSD con bloqueo a varios miles de ASNs, tuve problemas con algo en Chrome.
+Días después de configurar [pf-badhost](https://www.geoghegan.ca/pfbadhost.html) en mi router-gateway-firewall OpenBSD con bloqueo a varios miles de ASNs y dominios tuve un problema en Chrome.
 
 Sospechando un IP bloqueado, revisé con tcpdump y efectivamente Chrome estaba intentando hacer un request a un host en el dominio 1e100.net.
 
-Un dominio nuevo para mí que resulta ser [propiedad de Google](https://support.google.com/faqs/answer/174717?hl=en):
+Un dominio que hasta ese momento desonocía [propiedad de Google](https://support.google.com/faqs/answer/174717?hl=en):
 
 > What is 1e100.net?
 > 
