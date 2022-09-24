@@ -24,7 +24,7 @@ Hace 2 años de esto.
 
 ¿Fue una falsa alarma la inclusión del IP en la lista del análisis publicado?
 
-¿Fue ese servidor parte de una botnet sin que nadie lo supiera?
+¿Fue ese servidor parte de una botnet sin que nadie se diera cuenta?
 
 ¿Lo supo alguien?
 
