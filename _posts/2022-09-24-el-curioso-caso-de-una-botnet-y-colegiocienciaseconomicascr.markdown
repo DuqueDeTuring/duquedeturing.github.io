@@ -32,4 +32,4 @@ Your guess is as good as mine. ¯\\_(ツ)_/¯
 
 ---
 [^1]: 201.195.86.14
-[^2]: Autonomous System Numbers
+[^2]: [Autonomous System Numbers](https://es.wikipedia.org/wiki/Sistema_aut%C3%B3nomo)
