@@ -14,7 +14,7 @@ Al día siguiente, después de terminar de leer el análisis tuve la curiosidad/
 
 Busqué y descargué listas con bloques de IPs por país, escribí un pequeño programa para encontrar IPs de Costa Rica y en las listas del análisis encontré una dirección[^1]. 
 
-Probando el IP, ssh respondió en el puerto 1234. También tenía puerto de Web abierto y al cargarlo en el navegador obtuve un sitio del Colegio de Ciencias Económicas de Costa Rica, un formulario de ingreso a una aplicación Web.
+Probando el IP, ssh respondió y el puerto 1234 estaba abierto. También tenía puerto de Web abierto y al cargarlo en el navegador obtuve un sitio del Colegio de Ciencias Económicas de Costa Rica, un formulario de ingreso a una aplicación Web.
 
 Usando una consulta de IP a ASN[^2] obtuve que el IP pertenece a un bloque del ICE y que me permitió encontrar un contacto telefónico y una dirección para reportar casos de Spam pero no tuve ninguna respuesta. 
 
