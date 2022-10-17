@@ -10,7 +10,7 @@ Sometimes when ordering online a website's form requires a phone number, for tho
 
 Here is the thing: frequently, the website's validation code rejects the field with the phone number, failing the form validation and sometimes even clearing all the other fields forcing me to type everything again. A few years ago I found the cause, a very simple one but new to me and documented here. Suspecting something invisible, I found it just by pasting the clipboard's value in a terminal (nothing sophisticated).
 
-The cause is Unicode.
+The cause was Unicode.
 
 Most phone number fields in web forms expect just plain numbers but Amazon wraps the phone number with a couple of invisible Unicode characters that are included when copying the selected number. What are those characters?
 
