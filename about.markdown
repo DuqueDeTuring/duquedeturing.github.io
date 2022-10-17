@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 𝑓 (DuqueDeTuring)
+title: 𝑓 (andrés)
 permalink: /about/
 ---
 
