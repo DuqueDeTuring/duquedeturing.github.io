@@ -4,4 +4,8 @@ title: 𝑓 (andrés)
 permalink: /about/
 ---
 
-# (Andrés, ⌨️, 📚, Φ, 🎵, 🎸, 🌌, 🍕, 🇨🇷)
+# (Andrés, ⌨️, 📚, 🎵, 🎸, 🌌, 🍕, 🇨🇷)
+
+An old personal [Wordpress blog](https://cafeconcamus.wordpress.com/).
+
+Un [blog personal viejo](https://cafeconcamus.wordpress.com/).
