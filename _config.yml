@@ -29,9 +29,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-mastodon:
-  - username: duquedeturing
-    instance: mastodon.social
+minima:
+  social_links:
+    github: duquedeturing
+    mastodon:
+     - username: duquedeturing 
+       instance: mastodon.social 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
