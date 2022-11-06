@@ -32,9 +32,6 @@ plugins:
 minima:
   social_links:
     github: duquedeturing
-    mastodon:
-     - username: duquedeturing 
-       instance: mastodon.social 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
