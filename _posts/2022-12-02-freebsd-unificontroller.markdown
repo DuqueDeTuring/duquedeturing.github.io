@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Error en FreeBSD al instalar el controlador de UniFi desde ports?"
+title: "Evitando el error en FreeBSD al instalar el controlador de UniFi desde ports"
 date:   2022-12-02
 ---
 
