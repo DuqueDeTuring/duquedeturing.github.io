@@ -7,7 +7,7 @@ date:   2022-12-02
 ---
 
 
-El controlador de Unifi está disponible en los ports de FreeBSD (13.1), sin embargo, tratando de instalarlo en un _jail_ en mi homelab desde ports fallaba al tratar de instalar una dependencia: Perl (y con un error relacionado a dtrace).
+El controlador de [Unifi](https://www.ui.com) está disponible en los ports de FreeBSD (13.1), sin embargo, tratando de instalarlo en un [jail](https://docs.freebsd.org/en/books/handbook/jails/) en mi homelab desde [ports](https://www.freebsd.org/ports/) fallaba al tratar de instalar una dependencia: Perl (y con un error relacionado a dtrace).
 
 *sigh*
 
